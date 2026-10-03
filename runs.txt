@@ -1,7 +1,5 @@
 Magmax / Dusty-Depths / any interactions
 Magmax / Humongous-Hollow-Hard / interactions=0
-Magmax / Assorted-Alcove / interactions=1
-Magmax / Assorted-Alcove-Hard / any interactions
 Magmax / Cyber-Castle-Hard / any interactions
 Magmax / Sparkling-Shrine-Hard / interactions=0
 Rime / Shifting-Sands / interactions=0
@@ -15,8 +13,6 @@ Rime / Frozen-Fjord-Hard / interactions=0
 Rime / Restless-Ridge-Hard / interactions=0
 Rime / Toxic-Territory-Hard / interactions=0
 Rime / Magnetic-Monopole-Hard / interactions=1
-Rime / Assorted-Alcove / any interactions
-Rime / Assorted-Alcove-Hard / interactions=0
 Rime / Burning-Bunker-Hard / interactions=0
 Rime / Grand-Garden-Hard / interactions=0
 Rime / Cyber-Castle-Hard / any interactions
@@ -42,8 +38,6 @@ Morfe / Frozen-Fjord-Hard / interactions=0
 Morfe / Restless-Ridge-Hard / any interactions
 Morfe / Toxic-Territory-Hard / interactions=0
 Morfe / Magnetic-Monopole / interactions=0
-Morfe / Assorted-Alcove / any interactions
-Morfe / Assorted-Alcove-Hard / any interactions
 Morfe / Burning-Bunker-Hard / interactions=0
 Morfe / Grand-Garden-Hard / interactions=1
 Morfe / Cyber-Castle-Hard / any interactions
@@ -74,8 +68,6 @@ Aurora / Frozen-Fjord / interactions=0
 Aurora / Frozen-Fjord-Hard / interactions=0
 Aurora / Restless-Ridge-Hard / interactions=0
 Aurora / Toxic-Territory-Hard / interactions=0
-Aurora / Assorted-Alcove / any interactions
-Aurora / Assorted-Alcove-Hard / any interactions
 Aurora / Burning-Bunker-Hard / interactions=0
 Aurora / Grand-Garden / interactions=0
 Aurora / Grand-Garden-Hard / any interactions
@@ -87,8 +79,6 @@ Aurora / Vast-Void / any interactions
 Aurora / Pristine-Purgatory / any interactions
 Aurora / Sparkling-Shrine / any interactions
 Aurora / Sparkling-Shrine-Hard / any interactions
-Necro / Assorted-Alcove / interactions=1
-Necro / Assorted-Alcove-Hard / any interactions
 Necro / Cyber-Castle-Hard / interactions=0
 Necro / Vast-Void / any interactions
 Necro / Pristine-Purgatory / interactions=0
@@ -99,8 +89,6 @@ Brute / Quiet-Quarry-Hard / any interactions
 Brute / Ominous-Occult / interactions=0
 Brute / Frozen-Fjord-Hard / interactions=0
 Brute / Restless-Ridge-Hard / any interactions
-Brute / Assorted-Alcove / any interactions
-Brute / Assorted-Alcove-Hard / any interactions
 Brute / Grand-Garden-Hard / any interactions
 Brute / Cyber-Castle-Hard / interactions=0
 Brute / Lonely-Laboratory / any interactions
@@ -132,8 +120,6 @@ Nexus / Toxic-Territory / interactions=0
 Nexus / Toxic-Territory-Hard / any interactions
 Nexus / Magnetic-Monopole / interactions=0
 Nexus / Magnetic-Monopole-Hard / any interactions
-Nexus / Assorted-Alcove / any interactions
-Nexus / Assorted-Alcove-Hard / any interactions
 Nexus / Burning-Bunker-Hard / interactions=0
 Nexus / Cyber-Castle-Hard / any interactions
 Nexus / Lonely-Laboratory / any interactions
@@ -150,8 +136,6 @@ Shade / Quiet-Quarry-Hard / any interactions
 Shade / Ominous-Occult / interactions=0
 Shade / Ominous-Occult-Hard / interactions=0
 Shade / Restless-Ridge-Hard / interactions=0
-Shade / Assorted-Alcove / any interactions
-Shade / Assorted-Alcove-Hard / any interactions
 Shade / Grand-Garden-Hard / any interactions
 Shade / Cyber-Castle / interactions=0
 Shade / Cyber-Castle-Hard / interactions=0
@@ -171,8 +155,6 @@ Euclid / Restless-Ridge-Hard / any interactions
 Euclid / Toxic-Territory-Hard / interactions=0
 Euclid / Magnetic-Monopole / interactions=0
 Euclid / Magnetic-Monopole-Hard / interactions=0
-Euclid / Assorted-Alcove / any interactions
-Euclid / Assorted-Alcove-Hard / any interactions
 Euclid / Cyber-Castle-Hard / interactions=0
 Euclid / Infinite-Inferno / interactions=0
 Euclid / Terrifying-Temple / interactions=0
@@ -181,8 +163,6 @@ Euclid / Sparkling-Shrine / interactions=0
 Euclid / Sparkling-Shrine-Hard / any interactions
 Chrono / Dusty-Depths / interactions=0
 Chrono / Quiet-Quarry-Hard / interactions=0
-Chrono / Assorted-Alcove / any interactions
-Chrono / Assorted-Alcove-Hard / any interactions
 Chrono / Cyber-Castle / interactions=0
 Chrono / Cyber-Castle-Hard / interactions=0
 Chrono / Lonely-Laboratory / interactions=0
@@ -198,16 +178,12 @@ Reaper / Humongous-Hollow-Hard / any interactions
 Reaper / Dangerous-District-Hard / interactions=0
 Reaper / Ominous-Occult-Hard / interactions=0
 Reaper / Toxic-Territory-Hard / interactions=0
-Reaper / Assorted-Alcove / any interactions
-Reaper / Assorted-Alcove-Hard / any interactions
 Reaper / Cyber-Castle-Hard / interactions=0
 Reaper / Terrifying-Temple / interactions=0
 Reaper / Vast-Void / interactions=0
 Reaper / Pristine-Purgatory / interactions=0
 Reaper / Sparkling-Shrine / interactions=0
 Reaper / Sparkling-Shrine-Hard / any interactions
-Rameses / Assorted-Alcove / interactions=1
-Rameses / Assorted-Alcove-Hard / any interactions
 Rameses / Cyber-Castle-Hard / interactions=0
 Rameses / Vast-Void / any interactions
 Jolt / Shifting-Sands / interactions=0
@@ -220,8 +196,6 @@ Jolt / Quiet-Quarry-Hard / any interactions
 Jolt / Ominous-Occult / interactions=0
 Jolt / Frozen-Fjord-Hard / any interactions
 Jolt / Restless-Ridge-Hard / any interactions
-Jolt / Assorted-Alcove / any interactions
-Jolt / Assorted-Alcove-Hard / any interactions
 Jolt / Burning-Bunker-Hard / interactions=0
 Jolt / Grand-Garden-Hard / interactions=0
 Jolt / Cyber-Castle / interactions=0
@@ -248,8 +222,6 @@ Ghoul / Frozen-Fjord-Hard / interactions=0
 Ghoul / Restless-Ridge-Hard / interactions=0
 Ghoul / Toxic-Territory-Hard / interactions=0
 Ghoul / Magnetic-Monopole-Hard / interactions=0
-Ghoul / Assorted-Alcove / any interactions
-Ghoul / Assorted-Alcove-Hard / any interactions
 Ghoul / Burning-Bunker / interactions=0
 Ghoul / Grand-Garden / interactions=0
 Ghoul / Grand-Garden-Hard / interactions=0
@@ -263,8 +235,6 @@ Ghoul / Pristine-Purgatory / any interactions
 Ghoul / Sparkling-Shrine / interactions=0
 Ghoul / Sparkling-Shrine-Hard / any interactions
 Cent / Toxic-Territory-Hard / interactions=0
-Cent / Assorted-Alcove / interactions=0
-Cent / Assorted-Alcove-Hard / any interactions
 Cent / Cyber-Castle-Hard / interactions=0
 Cent / Lonely-Laboratory / interactions=0
 Cent / Vast-Void / any interactions
@@ -286,8 +256,6 @@ Jötunn / Restless-Ridge / interactions=1
 Jötunn / Restless-Ridge-Hard / any interactions
 Jötunn / Magnetic-Monopole / interactions=0
 Jötunn / Magnetic-Monopole-Hard / interactions=0
-Jötunn / Assorted-Alcove / any interactions
-Jötunn / Assorted-Alcove-Hard / any interactions
 Jötunn / Grand-Garden-Hard / any interactions
 Jötunn / Cyber-Castle / interactions=0
 Jötunn / Cyber-Castle-Hard / interactions=0
@@ -303,8 +271,6 @@ Candy / Humongous-Hollow-Hard / interactions=0
 Candy / Frozen-Fjord / interactions=0
 Candy / Frozen-Fjord-Hard / interactions=0
 Candy / Restless-Ridge-Hard / interactions=0
-Candy / Assorted-Alcove / interactions=1
-Candy / Assorted-Alcove-Hard / any interactions
 Candy / Cyber-Castle-Hard / any interactions
 Candy / Vast-Void / any interactions
 Candy / Sparkling-Shrine-Hard / any interactions
@@ -316,8 +282,6 @@ Mirage / Elite-Expanse-Hard / interactions=0
 Mirage / Restless-Ridge-Hard / interactions=0
 Mirage / Toxic-Territory / interactions=0
 Mirage / Toxic-Territory-Hard / interactions=0
-Mirage / Assorted-Alcove / any interactions
-Mirage / Assorted-Alcove-Hard / any interactions
 Mirage / Cyber-Castle / interactions=0
 Mirage / Cyber-Castle-Hard / any interactions
 Mirage / Lonely-Laboratory / interactions=0
@@ -331,8 +295,6 @@ Boldrock / Wacky-Wonderland-Hard / interactions=1
 Boldrock / Glacial-Gorge-Hard / any interactions
 Boldrock / Elite-Expanse-Hard / interactions=1
 Boldrock / Restless-Ridge-Hard / any interactions
-Boldrock / Assorted-Alcove / any interactions
-Boldrock / Assorted-Alcove-Hard / any interactions
 Boldrock / Grand-Garden-Hard / interactions=0
 Boldrock / Cyber-Castle / interactions=0
 Boldrock / Cyber-Castle-Hard / interactions=0
@@ -348,8 +310,6 @@ Glob / Glacial-Gorge-Hard / interactions=0
 Glob / Humongous-Hollow-Hard / interactions=0
 Glob / Quiet-Quarry-Hard / interactions=0
 Glob / Frozen-Fjord-Hard / interactions=0
-Glob / Assorted-Alcove / any interactions
-Glob / Assorted-Alcove-Hard / any interactions
 Glob / Grand-Garden-Hard / interactions=0
 Glob / Terrifying-Temple / interactions=0
 Glob / Vast-Void / any interactions
@@ -364,8 +324,6 @@ Magno / Frozen-Fjord / interactions=0
 Magno / Frozen-Fjord-Hard / interactions=0
 Magno / Restless-Ridge-Hard / interactions=0
 Magno / Toxic-Territory-Hard / interactions=0
-Magno / Assorted-Alcove / any interactions
-Magno / Assorted-Alcove-Hard / any interactions
 Magno / Grand-Garden-Hard / interactions=0
 Magno / Cyber-Castle-Hard / interactions=0
 Magno / Vast-Void / any interactions
@@ -394,8 +352,6 @@ Ignis / Restless-Ridge-Hard / interactions=0
 Ignis / Toxic-Territory / interactions=0
 Ignis / Toxic-Territory-Hard / interactions=0
 Ignis / Magnetic-Monopole / interactions=0
-Ignis / Assorted-Alcove / any interactions
-Ignis / Assorted-Alcove-Hard / any interactions
 Ignis / Grand-Garden / interactions=0
 Ignis / Grand-Garden-Hard / interactions=0
 Ignis / Cyber-Castle / interactions=0
@@ -424,8 +380,6 @@ Stella / Frozen-Fjord-Hard / interactions=0
 Stella / Restless-Ridge / interactions=0
 Stella / Restless-Ridge-Hard / interactions=0
 Stella / Magnetic-Monopole-Hard / interactions=0
-Stella / Assorted-Alcove / any interactions
-Stella / Assorted-Alcove-Hard / any interactions
 Stella / Burning-Bunker-Hard / interactions=0
 Stella / Grand-Garden / interactions=0
 Stella / Grand-Garden-Hard / interactions=0
@@ -439,14 +393,10 @@ Stella / Vast-Void / any interactions
 Stella / Pristine-Purgatory / any interactions
 Stella / Sparkling-Shrine / interactions=0
 Stella / Sparkling-Shrine-Hard / any interactions
-Viola / Assorted-Alcove / interactions=0
-Viola / Assorted-Alcove-Hard / interactions=0
 Viola / Vast-Void / interactions=0
 Viola / Pristine-Purgatory / interactions=0
 Viola / Sparkling-Shrine-Hard / any interactions
 Mortuus / Wacky-Wonderland-Hard / interactions=0
-Mortuus / Assorted-Alcove / interactions=1
-Mortuus / Assorted-Alcove-Hard / interactions=1
 Mortuus / Cyber-Castle / interactions=0
 Mortuus / Lonely-Laboratory / interactions=0
 Mortuus / Ancient-Abyss / interactions=0
@@ -455,8 +405,6 @@ Mortuus / Sparkling-Shrine-Hard / interactions=0
 Cybot / Dusty-Depths / any interactions
 Cybot / Vicious-Valley-Hard / interactions=0
 Cybot / Restless-Ridge-Hard / interactions=0
-Cybot / Assorted-Alcove / any interactions
-Cybot / Assorted-Alcove-Hard / any interactions
 Cybot / Cyber-Castle-Hard / interactions=0
 Cybot / Ancient-Abyss / interactions=0
 Cybot / Vast-Void / any interactions
@@ -487,8 +435,6 @@ Echelon / Restless-Ridge-Hard / interactions=0
 Echelon / Toxic-Territory-Hard / any interactions
 Echelon / Magnetic-Monopole / interactions=0
 Echelon / Magnetic-Monopole-Hard / interactions=1
-Echelon / Assorted-Alcove / any interactions
-Echelon / Assorted-Alcove-Hard / any interactions
 Echelon / Burning-Bunker / interactions=0
 Echelon / Burning-Bunker-Hard / interactions=0
 Echelon / Grand-Garden-Hard / any interactions
@@ -514,8 +460,6 @@ Demona / Ominous-Occult-Hard / interactions=0
 Demona / Restless-Ridge-Hard / any interactions
 Demona / Toxic-Territory / interactions=0
 Demona / Toxic-Territory-Hard / interactions=0
-Demona / Assorted-Alcove / any interactions
-Demona / Assorted-Alcove-Hard / any interactions
 Demona / Burning-Bunker-Hard / interactions=0
 Demona / Cyber-Castle-Hard / any interactions
 Demona / Lonely-Laboratory / interactions=0
@@ -526,8 +470,6 @@ Demona / Vast-Void / any interactions
 Demona / Pristine-Purgatory / any interactions
 Demona / Sparkling-Shrine / interactions=0
 Demona / Sparkling-Shrine-Hard / any interactions
-Stheno / Assorted-Alcove / any interactions
-Stheno / Assorted-Alcove-Hard / any interactions
 Stheno / Cyber-Castle / interactions=0
 Stheno / Cyber-Castle-Hard / interactions=0
 Stheno / Vast-Void / any interactions
@@ -536,8 +478,6 @@ Stheno / Sparkling-Shrine-Hard / any interactions
 Factorb / Dangerous-District-Hard / interactions=0
 Factorb / Frozen-Fjord-Hard / interactions=0
 Factorb / Restless-Ridge-Hard / interactions=0
-Factorb / Assorted-Alcove / any interactions
-Factorb / Assorted-Alcove-Hard / any interactions
 Factorb / Grand-Garden-Hard / interactions=0
 Factorb / Cyber-Castle / interactions=0
 Factorb / Cyber-Castle-Hard / any interactions
@@ -563,8 +503,6 @@ Leono / Frozen-Fjord-Hard / interactions=0
 Leono / Restless-Ridge / interactions=0
 Leono / Restless-Ridge-Hard / any interactions
 Leono / Magnetic-Monopole / interactions=0
-Leono / Assorted-Alcove / any interactions
-Leono / Assorted-Alcove-Hard / any interactions
 Leono / Burning-Bunker / interactions=0
 Leono / Cyber-Castle / interactions=0
 Leono / Cyber-Castle-Hard / any interactions
@@ -576,8 +514,6 @@ Leono / Vast-Void / any interactions
 Leono / Pristine-Purgatory / interactions=0
 Leono / Sparkling-Shrine / interactions=0
 Leono / Sparkling-Shrine-Hard / any interactions
-Veydris / Assorted-Alcove / any interactions
-Veydris / Assorted-Alcove-Hard / any interactions
 Veydris / Cyber-Castle / interactions=0
 Veydris / Cyber-Castle-Hard / interactions=0
 Veydris / Sparkling-Shrine-Hard / interactions=0
