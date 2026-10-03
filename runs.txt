@@ -1,0 +1,583 @@
+Magmax / Dusty-Depths / any interactions
+Magmax / Humongous-Hollow-Hard / interactions=0
+Magmax / Assorted-Alcove / interactions=1
+Magmax / Assorted-Alcove-Hard / any interactions
+Magmax / Cyber-Castle-Hard / any interactions
+Magmax / Sparkling-Shrine-Hard / interactions=0
+Rime / Shifting-Sands / interactions=0
+Rime / Dusty-Depths / any interactions
+Rime / Glacial-Gorge-Hard / any interactions
+Rime / Vicious-Valley-Hard / interactions=0
+Rime / Humongous-Hollow-Hard / any interactions
+Rime / Elite-Expanse-Hard / interactions=0
+Rime / Quiet-Quarry-Hard / interactions=0
+Rime / Frozen-Fjord-Hard / interactions=0
+Rime / Restless-Ridge-Hard / interactions=0
+Rime / Toxic-Territory-Hard / interactions=0
+Rime / Magnetic-Monopole-Hard / interactions=1
+Rime / Assorted-Alcove / any interactions
+Rime / Assorted-Alcove-Hard / interactions=0
+Rime / Burning-Bunker-Hard / interactions=0
+Rime / Grand-Garden-Hard / interactions=0
+Rime / Cyber-Castle-Hard / any interactions
+Rime / Lonely-Laboratory / any interactions
+Rime / Infinite-Inferno / interactions=0
+Rime / Withering-Wasteland / interactions=0
+Rime / Terrifying-Temple / any interactions
+Rime / Ancient-Abyss / interactions=0
+Rime / Vast-Void / any interactions
+Rime / Pristine-Purgatory / interactions=0
+Rime / Sparkling-Shrine / interactions=0
+Rime / Sparkling-Shrine-Hard / any interactions
+Morfe / Dusty-Depths / interactions=0
+Morfe / Wacky-Wonderland-Hard / interactions=0
+Morfe / Glacial-Gorge / interactions=0
+Morfe / Glacial-Gorge-Hard / interactions=0
+Morfe / Vicious-Valley-Hard / interactions=0
+Morfe / Dangerous-District / interactions=0
+Morfe / Dangerous-District-Hard / interactions=0
+Morfe / Quiet-Quarry-Hard / interactions=0
+Morfe / Ominous-Occult / interactions=0
+Morfe / Frozen-Fjord-Hard / interactions=0
+Morfe / Restless-Ridge-Hard / any interactions
+Morfe / Toxic-Territory-Hard / interactions=0
+Morfe / Magnetic-Monopole / interactions=0
+Morfe / Assorted-Alcove / any interactions
+Morfe / Assorted-Alcove-Hard / any interactions
+Morfe / Burning-Bunker-Hard / interactions=0
+Morfe / Grand-Garden-Hard / interactions=1
+Morfe / Cyber-Castle-Hard / any interactions
+Morfe / Lonely-Laboratory / any interactions
+Morfe / Infinite-Inferno / interactions=0
+Morfe / Terrifying-Temple / interactions=0
+Morfe / Ancient-Abyss / interactions=0
+Morfe / Vast-Void / any interactions
+Morfe / Pristine-Purgatory / any interactions
+Morfe / Sparkling-Shrine / any interactions
+Morfe / Sparkling-Shrine-Hard / any interactions
+Aurora / Haunted-Halls / interactions=0
+Aurora / Peculiar-Pyramid-Hard / interactions=0
+Aurora / Shifting-Sands / interactions=0
+Aurora / Dusty-Depths / interactions=0
+Aurora / Wacky-Wonderland-Hard / interactions=0
+Aurora / Glacial-Gorge / interactions=0
+Aurora / Glacial-Gorge-Hard / interactions=0
+Aurora / Vicious-Valley-Hard / interactions=0
+Aurora / Humongous-Hollow-Hard / any interactions
+Aurora / Elite-Expanse-Hard / any interactions
+Aurora / Dangerous-District / interactions=0
+Aurora / Dangerous-District-Hard / interactions=0
+Aurora / Quiet-Quarry-Hard / interactions=0
+Aurora / Ominous-Occult / interactions=0
+Aurora / Ominous-Occult-Hard / interactions=0
+Aurora / Frozen-Fjord / interactions=0
+Aurora / Frozen-Fjord-Hard / interactions=0
+Aurora / Restless-Ridge-Hard / interactions=0
+Aurora / Toxic-Territory-Hard / interactions=0
+Aurora / Assorted-Alcove / any interactions
+Aurora / Assorted-Alcove-Hard / any interactions
+Aurora / Burning-Bunker-Hard / interactions=0
+Aurora / Grand-Garden / interactions=0
+Aurora / Grand-Garden-Hard / any interactions
+Aurora / Cyber-Castle-Hard / any interactions
+Aurora / Infinite-Inferno / interactions=0
+Aurora / Terrifying-Temple / interactions=0
+Aurora / Ancient-Abyss / interactions=0
+Aurora / Vast-Void / any interactions
+Aurora / Pristine-Purgatory / any interactions
+Aurora / Sparkling-Shrine / any interactions
+Aurora / Sparkling-Shrine-Hard / any interactions
+Necro / Assorted-Alcove / interactions=1
+Necro / Assorted-Alcove-Hard / any interactions
+Necro / Cyber-Castle-Hard / interactions=0
+Necro / Vast-Void / any interactions
+Necro / Pristine-Purgatory / interactions=0
+Necro / Sparkling-Shrine-Hard / any interactions
+Brute / Dusty-Depths / interactions=0
+Brute / Dangerous-District-Hard / interactions=0
+Brute / Quiet-Quarry-Hard / any interactions
+Brute / Ominous-Occult / interactions=0
+Brute / Frozen-Fjord-Hard / interactions=0
+Brute / Restless-Ridge-Hard / any interactions
+Brute / Assorted-Alcove / any interactions
+Brute / Assorted-Alcove-Hard / any interactions
+Brute / Grand-Garden-Hard / any interactions
+Brute / Cyber-Castle-Hard / interactions=0
+Brute / Lonely-Laboratory / any interactions
+Brute / Infinite-Inferno / interactions=0
+Brute / Terrifying-Temple / interactions=1
+Brute / Ancient-Abyss / any interactions
+Brute / Vast-Void / any interactions
+Brute / Pristine-Purgatory / any interactions
+Brute / Sparkling-Shrine / any interactions
+Brute / Sparkling-Shrine-Hard / any interactions
+Nexus / Catastrophic-Core / interactions=0
+Nexus / Coupled-Corridors / interactions=0
+Nexus / Peculiar-Pyramid-Hard / interactions=0
+Nexus / Shifting-Sands / interactions=0
+Nexus / Dusty-Depths / interactions=0
+Nexus / Wacky-Wonderland-Hard / interactions=0
+Nexus / Glacial-Gorge-Hard / any interactions
+Nexus / Vicious-Valley-Hard / interactions=0
+Nexus / Humongous-Hollow-Hard / interactions=0
+Nexus / Elite-Expanse-Hard / interactions=0
+Nexus / Dangerous-District / interactions=0
+Nexus / Dangerous-District-Hard / interactions=1
+Nexus / Quiet-Quarry-Hard / interactions=0
+Nexus / Ominous-Occult / interactions=0
+Nexus / Frozen-Fjord / interactions=0
+Nexus / Frozen-Fjord-Hard / interactions=0
+Nexus / Restless-Ridge-Hard / interactions=0
+Nexus / Toxic-Territory / interactions=0
+Nexus / Toxic-Territory-Hard / any interactions
+Nexus / Magnetic-Monopole / interactions=0
+Nexus / Magnetic-Monopole-Hard / any interactions
+Nexus / Assorted-Alcove / any interactions
+Nexus / Assorted-Alcove-Hard / any interactions
+Nexus / Burning-Bunker-Hard / interactions=0
+Nexus / Cyber-Castle-Hard / any interactions
+Nexus / Lonely-Laboratory / any interactions
+Nexus / Infinite-Inferno / interactions=0
+Nexus / Withering-Wasteland / interactions=0
+Nexus / Terrifying-Temple / interactions=0
+Nexus / Ancient-Abyss / interactions=0
+Nexus / Vast-Void / interactions=0
+Nexus / Pristine-Purgatory / interactions=0
+Nexus / Sparkling-Shrine / interactions=0
+Nexus / Sparkling-Shrine-Hard / any interactions
+Shade / Dusty-Depths / any interactions
+Shade / Quiet-Quarry-Hard / any interactions
+Shade / Ominous-Occult / interactions=0
+Shade / Ominous-Occult-Hard / interactions=0
+Shade / Restless-Ridge-Hard / interactions=0
+Shade / Assorted-Alcove / any interactions
+Shade / Assorted-Alcove-Hard / any interactions
+Shade / Grand-Garden-Hard / any interactions
+Shade / Cyber-Castle / interactions=0
+Shade / Cyber-Castle-Hard / interactions=0
+Shade / Lonely-Laboratory / interactions=0
+Shade / Vast-Void / any interactions
+Shade / Pristine-Purgatory / any interactions
+Euclid / Catastrophic-Core / interactions=0
+Euclid / Shifting-Sands / interactions=0
+Euclid / Dusty-Depths / interactions=0
+Euclid / Wacky-Wonderland-Hard / interactions=0
+Euclid / Vicious-Valley-Hard / interactions=0
+Euclid / Humongous-Hollow-Hard / interactions=0
+Euclid / Dangerous-District / interactions=0
+Euclid / Dangerous-District-Hard / interactions=0
+Euclid / Frozen-Fjord-Hard / interactions=0
+Euclid / Restless-Ridge-Hard / any interactions
+Euclid / Toxic-Territory-Hard / interactions=0
+Euclid / Magnetic-Monopole / interactions=0
+Euclid / Magnetic-Monopole-Hard / interactions=0
+Euclid / Assorted-Alcove / any interactions
+Euclid / Assorted-Alcove-Hard / any interactions
+Euclid / Cyber-Castle-Hard / interactions=0
+Euclid / Infinite-Inferno / interactions=0
+Euclid / Terrifying-Temple / interactions=0
+Euclid / Vast-Void / any interactions
+Euclid / Sparkling-Shrine / interactions=0
+Euclid / Sparkling-Shrine-Hard / any interactions
+Chrono / Dusty-Depths / interactions=0
+Chrono / Quiet-Quarry-Hard / interactions=0
+Chrono / Assorted-Alcove / any interactions
+Chrono / Assorted-Alcove-Hard / any interactions
+Chrono / Cyber-Castle / interactions=0
+Chrono / Cyber-Castle-Hard / interactions=0
+Chrono / Lonely-Laboratory / interactions=0
+Chrono / Withering-Wasteland / interactions=0
+Chrono / Ancient-Abyss / any interactions
+Chrono / Vast-Void / any interactions
+Chrono / Pristine-Purgatory / interactions=0
+Chrono / Sparkling-Shrine-Hard / any interactions
+Reaper / Catastrophic-Core / interactions=0
+Reaper / Dusty-Depths / interactions=0
+Reaper / Wacky-Wonderland-Hard / any interactions
+Reaper / Humongous-Hollow-Hard / any interactions
+Reaper / Dangerous-District-Hard / interactions=0
+Reaper / Ominous-Occult-Hard / interactions=0
+Reaper / Toxic-Territory-Hard / interactions=0
+Reaper / Assorted-Alcove / any interactions
+Reaper / Assorted-Alcove-Hard / any interactions
+Reaper / Cyber-Castle-Hard / interactions=0
+Reaper / Terrifying-Temple / interactions=0
+Reaper / Vast-Void / interactions=0
+Reaper / Pristine-Purgatory / interactions=0
+Reaper / Sparkling-Shrine / interactions=0
+Reaper / Sparkling-Shrine-Hard / any interactions
+Rameses / Assorted-Alcove / interactions=1
+Rameses / Assorted-Alcove-Hard / any interactions
+Rameses / Cyber-Castle-Hard / interactions=0
+Rameses / Vast-Void / any interactions
+Jolt / Shifting-Sands / interactions=0
+Jolt / Dusty-Depths / any interactions
+Jolt / Wacky-Wonderland-Hard / interactions=0
+Jolt / Glacial-Gorge-Hard / interactions=0
+Jolt / Humongous-Hollow-Hard / interactions=0
+Jolt / Elite-Expanse-Hard / interactions=0
+Jolt / Quiet-Quarry-Hard / any interactions
+Jolt / Ominous-Occult / interactions=0
+Jolt / Frozen-Fjord-Hard / any interactions
+Jolt / Restless-Ridge-Hard / any interactions
+Jolt / Assorted-Alcove / any interactions
+Jolt / Assorted-Alcove-Hard / any interactions
+Jolt / Burning-Bunker-Hard / interactions=0
+Jolt / Grand-Garden-Hard / interactions=0
+Jolt / Cyber-Castle / interactions=0
+Jolt / Cyber-Castle-Hard / any interactions
+Jolt / Lonely-Laboratory / interactions=0
+Jolt / Infinite-Inferno / interactions=0
+Jolt / Terrifying-Temple / interactions=0
+Jolt / Ancient-Abyss / any interactions
+Jolt / Vast-Void / any interactions
+Jolt / Pristine-Purgatory / any interactions
+Jolt / Sparkling-Shrine / any interactions
+Jolt / Sparkling-Shrine-Hard / any interactions
+Ghoul / Shifting-Sands / interactions=0
+Ghoul / Dusty-Depths / interactions=0
+Ghoul / Wacky-Wonderland-Hard / interactions=0
+Ghoul / Glacial-Gorge-Hard / interactions=0
+Ghoul / Vicious-Valley-Hard / interactions=0
+Ghoul / Humongous-Hollow-Hard / interactions=0
+Ghoul / Elite-Expanse-Hard / interactions=0
+Ghoul / Dangerous-District-Hard / interactions=0
+Ghoul / Quiet-Quarry-Hard / interactions=0
+Ghoul / Frozen-Fjord / interactions=0
+Ghoul / Frozen-Fjord-Hard / interactions=0
+Ghoul / Restless-Ridge-Hard / interactions=0
+Ghoul / Toxic-Territory-Hard / interactions=0
+Ghoul / Magnetic-Monopole-Hard / interactions=0
+Ghoul / Assorted-Alcove / any interactions
+Ghoul / Assorted-Alcove-Hard / any interactions
+Ghoul / Burning-Bunker / interactions=0
+Ghoul / Grand-Garden / interactions=0
+Ghoul / Grand-Garden-Hard / interactions=0
+Ghoul / Cyber-Castle / interactions=0
+Ghoul / Cyber-Castle-Hard / interactions=0
+Ghoul / Lonely-Laboratory / any interactions
+Ghoul / Infinite-Inferno / interactions=0
+Ghoul / Ancient-Abyss / interactions=0
+Ghoul / Vast-Void / any interactions
+Ghoul / Pristine-Purgatory / any interactions
+Ghoul / Sparkling-Shrine / interactions=0
+Ghoul / Sparkling-Shrine-Hard / any interactions
+Cent / Toxic-Territory-Hard / interactions=0
+Cent / Assorted-Alcove / interactions=0
+Cent / Assorted-Alcove-Hard / any interactions
+Cent / Cyber-Castle-Hard / interactions=0
+Cent / Lonely-Laboratory / interactions=0
+Cent / Vast-Void / any interactions
+Cent / Pristine-Purgatory / interactions=0
+Jötunn / Glacial-Gorge / interactions=0
+Jötunn / Glacial-Gorge-Hard / any interactions
+Jötunn / Vicious-Valley-Hard / interactions=0
+Jötunn / Humongous-Hollow-Hard / any interactions
+Jötunn / Elite-Expanse / interactions=0
+Jötunn / Elite-Expanse-Hard / any interactions
+Jötunn / Dangerous-District / interactions=0
+Jötunn / Dangerous-District-Hard / interactions=1
+Jötunn / Quiet-Quarry-Hard / any interactions
+Jötunn / Ominous-Occult / any interactions
+Jötunn / Ominous-Occult-Hard / interactions=0
+Jötunn / Frozen-Fjord / interactions=0
+Jötunn / Frozen-Fjord-Hard / interactions=0
+Jötunn / Restless-Ridge / interactions=1
+Jötunn / Restless-Ridge-Hard / any interactions
+Jötunn / Magnetic-Monopole / interactions=0
+Jötunn / Magnetic-Monopole-Hard / interactions=0
+Jötunn / Assorted-Alcove / any interactions
+Jötunn / Assorted-Alcove-Hard / any interactions
+Jötunn / Grand-Garden-Hard / any interactions
+Jötunn / Cyber-Castle / interactions=0
+Jötunn / Cyber-Castle-Hard / interactions=0
+Jötunn / Lonely-Laboratory / interactions=0
+Jötunn / Infinite-Inferno / interactions=0
+Jötunn / Ancient-Abyss / any interactions
+Jötunn / Vast-Void / any interactions
+Jötunn / Pristine-Purgatory / any interactions
+Jötunn / Sparkling-Shrine / interactions=0
+Jötunn / Sparkling-Shrine-Hard / any interactions
+Candy / Glacial-Gorge-Hard / interactions=0
+Candy / Humongous-Hollow-Hard / interactions=0
+Candy / Frozen-Fjord / interactions=0
+Candy / Frozen-Fjord-Hard / interactions=0
+Candy / Restless-Ridge-Hard / interactions=0
+Candy / Assorted-Alcove / interactions=1
+Candy / Assorted-Alcove-Hard / any interactions
+Candy / Cyber-Castle-Hard / any interactions
+Candy / Vast-Void / any interactions
+Candy / Sparkling-Shrine-Hard / any interactions
+Mirage / Catastrophic-Core / interactions=0
+Mirage / Dusty-Depths / any interactions
+Mirage / Wacky-Wonderland-Hard / interactions=0
+Mirage / Vicious-Valley-Hard / interactions=0
+Mirage / Elite-Expanse-Hard / interactions=0
+Mirage / Restless-Ridge-Hard / interactions=0
+Mirage / Toxic-Territory / interactions=0
+Mirage / Toxic-Territory-Hard / interactions=0
+Mirage / Assorted-Alcove / any interactions
+Mirage / Assorted-Alcove-Hard / any interactions
+Mirage / Cyber-Castle / interactions=0
+Mirage / Cyber-Castle-Hard / any interactions
+Mirage / Lonely-Laboratory / interactions=0
+Mirage / Infinite-Inferno / interactions=0
+Mirage / Ancient-Abyss / interactions=0
+Mirage / Vast-Void / interactions=0
+Mirage / Pristine-Purgatory / interactions=0
+Mirage / Sparkling-Shrine / interactions=0
+Mirage / Sparkling-Shrine-Hard / any interactions
+Boldrock / Wacky-Wonderland-Hard / interactions=1
+Boldrock / Glacial-Gorge-Hard / any interactions
+Boldrock / Elite-Expanse-Hard / interactions=1
+Boldrock / Restless-Ridge-Hard / any interactions
+Boldrock / Assorted-Alcove / any interactions
+Boldrock / Assorted-Alcove-Hard / any interactions
+Boldrock / Grand-Garden-Hard / interactions=0
+Boldrock / Cyber-Castle / interactions=0
+Boldrock / Cyber-Castle-Hard / interactions=0
+Boldrock / Lonely-Laboratory / interactions=0
+Boldrock / Infinite-Inferno / interactions=0
+Boldrock / Terrifying-Temple / interactions=0
+Boldrock / Vast-Void / interactions=1
+Boldrock / Pristine-Purgatory / interactions=0
+Boldrock / Sparkling-Shrine / interactions=0
+Boldrock / Sparkling-Shrine-Hard / any interactions
+Glob / Wacky-Wonderland-Hard / interactions=0
+Glob / Glacial-Gorge-Hard / interactions=0
+Glob / Humongous-Hollow-Hard / interactions=0
+Glob / Quiet-Quarry-Hard / interactions=0
+Glob / Frozen-Fjord-Hard / interactions=0
+Glob / Assorted-Alcove / any interactions
+Glob / Assorted-Alcove-Hard / any interactions
+Glob / Grand-Garden-Hard / interactions=0
+Glob / Terrifying-Temple / interactions=0
+Glob / Vast-Void / any interactions
+Glob / Sparkling-Shrine / any interactions
+Glob / Sparkling-Shrine-Hard / any interactions
+Magno / Wacky-Wonderland-Hard / interactions=0
+Magno / Vicious-Valley-Hard / interactions=0
+Magno / Humongous-Hollow-Hard / interactions=0
+Magno / Elite-Expanse-Hard / interactions=0
+Magno / Dangerous-District-Hard / interactions=0
+Magno / Frozen-Fjord / interactions=0
+Magno / Frozen-Fjord-Hard / interactions=0
+Magno / Restless-Ridge-Hard / interactions=0
+Magno / Toxic-Territory-Hard / interactions=0
+Magno / Assorted-Alcove / any interactions
+Magno / Assorted-Alcove-Hard / any interactions
+Magno / Grand-Garden-Hard / interactions=0
+Magno / Cyber-Castle-Hard / interactions=0
+Magno / Vast-Void / any interactions
+Magno / Pristine-Purgatory / interactions=0
+Magno / Sparkling-Shrine / interactions=0
+Magno / Sparkling-Shrine-Hard / interactions=0
+Ignis / Catastrophic-Core / interactions=0
+Ignis / Haunted-Halls / interactions=0
+Ignis / Mysterious-Mansion / interactions=0
+Ignis / Coupled-Corridors / interactions=0
+Ignis / Shifting-Sands / interactions=0
+Ignis / Dusty-Depths / interactions=0
+Ignis / Wacky-Wonderland / interactions=0
+Ignis / Wacky-Wonderland-Hard / interactions=0
+Ignis / Glacial-Gorge / interactions=0
+Ignis / Glacial-Gorge-Hard / interactions=0
+Ignis / Vicious-Valley / interactions=0
+Ignis / Vicious-Valley-Hard / interactions=0
+Ignis / Humongous-Hollow-Hard / interactions=0
+Ignis / Elite-Expanse-Hard / interactions=0
+Ignis / Dangerous-District / interactions=0
+Ignis / Dangerous-District-Hard / interactions=0
+Ignis / Quiet-Quarry-Hard / interactions=0
+Ignis / Frozen-Fjord / interactions=0
+Ignis / Restless-Ridge-Hard / interactions=0
+Ignis / Toxic-Territory / interactions=0
+Ignis / Toxic-Territory-Hard / interactions=0
+Ignis / Magnetic-Monopole / interactions=0
+Ignis / Assorted-Alcove / any interactions
+Ignis / Assorted-Alcove-Hard / any interactions
+Ignis / Grand-Garden / interactions=0
+Ignis / Grand-Garden-Hard / interactions=0
+Ignis / Cyber-Castle / interactions=0
+Ignis / Cyber-Castle-Hard / interactions=0
+Ignis / Lonely-Laboratory / interactions=0
+Ignis / Infinite-Inferno / interactions=0
+Ignis / Terrifying-Temple / interactions=0
+Ignis / Ancient-Abyss / interactions=0
+Ignis / Vast-Void / interactions=0
+Ignis / Pristine-Purgatory / interactions=0
+Ignis / Sparkling-Shrine / interactions=0
+Ignis / Sparkling-Shrine-Hard / interactions=0
+Stella / Catastrophic-Core / interactions=0
+Stella / Coupled-Corridors / interactions=0
+Stella / Peculiar-Pyramid-Hard / interactions=0
+Stella / Dusty-Depths / interactions=0
+Stella / Wacky-Wonderland-Hard / interactions=0
+Stella / Glacial-Gorge-Hard / interactions=0
+Stella / Vicious-Valley-Hard / interactions=0
+Stella / Humongous-Hollow-Hard / interactions=0
+Stella / Dangerous-District-Hard / interactions=0
+Stella / Quiet-Quarry-Hard / interactions=0
+Stella / Ominous-Occult / interactions=0
+Stella / Ominous-Occult-Hard / interactions=0
+Stella / Frozen-Fjord-Hard / interactions=0
+Stella / Restless-Ridge / interactions=0
+Stella / Restless-Ridge-Hard / interactions=0
+Stella / Magnetic-Monopole-Hard / interactions=0
+Stella / Assorted-Alcove / any interactions
+Stella / Assorted-Alcove-Hard / any interactions
+Stella / Burning-Bunker-Hard / interactions=0
+Stella / Grand-Garden / interactions=0
+Stella / Grand-Garden-Hard / interactions=0
+Stella / Cyber-Castle-Hard / interactions=0
+Stella / Lonely-Laboratory / any interactions
+Stella / Infinite-Inferno / interactions=0
+Stella / Withering-Wasteland / interactions=0
+Stella / Terrifying-Temple / interactions=0
+Stella / Ancient-Abyss / interactions=0
+Stella / Vast-Void / any interactions
+Stella / Pristine-Purgatory / any interactions
+Stella / Sparkling-Shrine / interactions=0
+Stella / Sparkling-Shrine-Hard / any interactions
+Viola / Assorted-Alcove / interactions=0
+Viola / Assorted-Alcove-Hard / interactions=0
+Viola / Vast-Void / interactions=0
+Viola / Pristine-Purgatory / interactions=0
+Viola / Sparkling-Shrine-Hard / any interactions
+Mortuus / Wacky-Wonderland-Hard / interactions=0
+Mortuus / Assorted-Alcove / interactions=1
+Mortuus / Assorted-Alcove-Hard / interactions=1
+Mortuus / Cyber-Castle / interactions=0
+Mortuus / Lonely-Laboratory / interactions=0
+Mortuus / Ancient-Abyss / interactions=0
+Mortuus / Vast-Void / interactions=0
+Mortuus / Sparkling-Shrine-Hard / interactions=0
+Cybot / Dusty-Depths / any interactions
+Cybot / Vicious-Valley-Hard / interactions=0
+Cybot / Restless-Ridge-Hard / interactions=0
+Cybot / Assorted-Alcove / any interactions
+Cybot / Assorted-Alcove-Hard / any interactions
+Cybot / Cyber-Castle-Hard / interactions=0
+Cybot / Ancient-Abyss / interactions=0
+Cybot / Vast-Void / any interactions
+Cybot / Sparkling-Shrine-Hard / any interactions
+Echelon / Catastrophic-Core / interactions=0
+Echelon / Haunted-Halls / interactions=0
+Echelon / Mysterious-Mansion / interactions=0
+Echelon / Coupled-Corridors / interactions=0
+Echelon / Peculiar-Pyramid-Hard / any interactions
+Echelon / Dusty-Depths / interactions=0
+Echelon / Wacky-Wonderland / interactions=0
+Echelon / Wacky-Wonderland-Hard / interactions=0
+Echelon / Glacial-Gorge / interactions=0
+Echelon / Glacial-Gorge-Hard / interactions=0
+Echelon / Vicious-Valley / interactions=0
+Echelon / Vicious-Valley-Hard / any interactions
+Echelon / Humongous-Hollow-Hard / any interactions
+Echelon / Elite-Expanse / interactions=0
+Echelon / Elite-Expanse-Hard / interactions=0
+Echelon / Dangerous-District / interactions=0
+Echelon / Dangerous-District-Hard / interactions=0
+Echelon / Quiet-Quarry-Hard / interactions=0
+Echelon / Ominous-Occult / interactions=0
+Echelon / Ominous-Occult-Hard / interactions=0
+Echelon / Frozen-Fjord / interactions=0
+Echelon / Frozen-Fjord-Hard / any interactions
+Echelon / Restless-Ridge-Hard / interactions=0
+Echelon / Toxic-Territory-Hard / any interactions
+Echelon / Magnetic-Monopole / interactions=0
+Echelon / Magnetic-Monopole-Hard / interactions=1
+Echelon / Assorted-Alcove / any interactions
+Echelon / Assorted-Alcove-Hard / any interactions
+Echelon / Burning-Bunker / interactions=0
+Echelon / Burning-Bunker-Hard / interactions=0
+Echelon / Grand-Garden-Hard / any interactions
+Echelon / Cyber-Castle-Hard / interactions=0
+Echelon / Lonely-Laboratory / any interactions
+Echelon / Infinite-Inferno / interactions=0
+Echelon / Withering-Wasteland / interactions=0
+Echelon / Terrifying-Temple / interactions=0
+Echelon / Ancient-Abyss / any interactions
+Echelon / Vast-Void / interactions=0
+Echelon / Pristine-Purgatory / interactions=0
+Echelon / Sparkling-Shrine / interactions=0
+Echelon / Sparkling-Shrine-Hard / any interactions
+Demona / Catastrophic-Core / interactions=0
+Demona / Haunted-Halls / interactions=0
+Demona / Shifting-Sands / interactions=0
+Demona / Dusty-Depths / interactions=0
+Demona / Wacky-Wonderland-Hard / interactions=0
+Demona / Glacial-Gorge-Hard / interactions=0
+Demona / Elite-Expanse-Hard / interactions=0
+Demona / Ominous-Occult / interactions=0
+Demona / Ominous-Occult-Hard / interactions=0
+Demona / Restless-Ridge-Hard / any interactions
+Demona / Toxic-Territory / interactions=0
+Demona / Toxic-Territory-Hard / interactions=0
+Demona / Assorted-Alcove / any interactions
+Demona / Assorted-Alcove-Hard / any interactions
+Demona / Burning-Bunker-Hard / interactions=0
+Demona / Cyber-Castle-Hard / any interactions
+Demona / Lonely-Laboratory / interactions=0
+Demona / Withering-Wasteland / interactions=0
+Demona / Terrifying-Temple / interactions=0
+Demona / Ancient-Abyss / interactions=0
+Demona / Vast-Void / any interactions
+Demona / Pristine-Purgatory / any interactions
+Demona / Sparkling-Shrine / interactions=0
+Demona / Sparkling-Shrine-Hard / any interactions
+Stheno / Assorted-Alcove / any interactions
+Stheno / Assorted-Alcove-Hard / any interactions
+Stheno / Cyber-Castle / interactions=0
+Stheno / Cyber-Castle-Hard / interactions=0
+Stheno / Vast-Void / any interactions
+Stheno / Pristine-Purgatory / interactions=0
+Stheno / Sparkling-Shrine-Hard / any interactions
+Factorb / Dangerous-District-Hard / interactions=0
+Factorb / Frozen-Fjord-Hard / interactions=0
+Factorb / Restless-Ridge-Hard / interactions=0
+Factorb / Assorted-Alcove / any interactions
+Factorb / Assorted-Alcove-Hard / any interactions
+Factorb / Grand-Garden-Hard / interactions=0
+Factorb / Cyber-Castle / interactions=0
+Factorb / Cyber-Castle-Hard / any interactions
+Factorb / Vast-Void / any interactions
+Factorb / Pristine-Purgatory / interactions=0
+Factorb / Sparkling-Shrine / interactions=0
+Factorb / Sparkling-Shrine-Hard / any interactions
+Leono / Catastrophic-Core / interactions=0
+Leono / Haunted-Halls / interactions=0
+Leono / Shifting-Sands / interactions=0
+Leono / Dusty-Depths / any interactions
+Leono / Wacky-Wonderland / interactions=0
+Leono / Wacky-Wonderland-Hard / interactions=0
+Leono / Glacial-Gorge-Hard / interactions=0
+Leono / Vicious-Valley-Hard / interactions=0
+Leono / Humongous-Hollow-Hard / interactions=0
+Leono / Elite-Expanse / interactions=0
+Leono / Elite-Expanse-Hard / any interactions
+Leono / Dangerous-District-Hard / any interactions
+Leono / Quiet-Quarry-Hard / interactions=0
+Leono / Ominous-Occult / interactions=0
+Leono / Frozen-Fjord-Hard / interactions=0
+Leono / Restless-Ridge / interactions=0
+Leono / Restless-Ridge-Hard / any interactions
+Leono / Magnetic-Monopole / interactions=0
+Leono / Assorted-Alcove / any interactions
+Leono / Assorted-Alcove-Hard / any interactions
+Leono / Burning-Bunker / interactions=0
+Leono / Cyber-Castle / interactions=0
+Leono / Cyber-Castle-Hard / any interactions
+Leono / Lonely-Laboratory / interactions=0
+Leono / Infinite-Inferno / interactions=0
+Leono / Withering-Wasteland / interactions=0
+Leono / Ancient-Abyss / interactions=0
+Leono / Vast-Void / any interactions
+Leono / Pristine-Purgatory / interactions=0
+Leono / Sparkling-Shrine / interactions=0
+Leono / Sparkling-Shrine-Hard / any interactions
+Veydris / Assorted-Alcove / any interactions
+Veydris / Assorted-Alcove-Hard / any interactions
+Veydris / Cyber-Castle / interactions=0
+Veydris / Cyber-Castle-Hard / interactions=0
+Veydris / Sparkling-Shrine-Hard / interactions=0
