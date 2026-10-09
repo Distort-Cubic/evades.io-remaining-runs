@@ -30,7 +30,6 @@ Morfe / Wacky-Wonderland-Hard / interactions=0
 Morfe / Glacial-Gorge / interactions=0
 Morfe / Glacial-Gorge-Hard / interactions=0
 Morfe / Vicious-Valley-Hard / interactions=0
-Morfe / Dangerous-District / interactions=0
 Morfe / Dangerous-District-Hard / interactions=0
 Morfe / Quiet-Quarry-Hard / interactions=0
 Morfe / Ominous-Occult / interactions=0
@@ -109,14 +108,12 @@ Nexus / Glacial-Gorge-Hard / any interactions
 Nexus / Vicious-Valley-Hard / interactions=0
 Nexus / Humongous-Hollow-Hard / interactions=0
 Nexus / Elite-Expanse-Hard / interactions=0
-Nexus / Dangerous-District / interactions=0
 Nexus / Dangerous-District-Hard / interactions=1
 Nexus / Quiet-Quarry-Hard / interactions=0
 Nexus / Ominous-Occult / interactions=0
 Nexus / Frozen-Fjord / interactions=0
 Nexus / Frozen-Fjord-Hard / interactions=0
 Nexus / Restless-Ridge-Hard / interactions=0
-Nexus / Toxic-Territory / interactions=0
 Nexus / Toxic-Territory-Hard / any interactions
 Nexus / Magnetic-Monopole / interactions=0
 Nexus / Magnetic-Monopole-Hard / any interactions
@@ -148,12 +145,10 @@ Euclid / Dusty-Depths / interactions=0
 Euclid / Wacky-Wonderland-Hard / interactions=0
 Euclid / Vicious-Valley-Hard / interactions=0
 Euclid / Humongous-Hollow-Hard / interactions=0
-Euclid / Dangerous-District / interactions=0
 Euclid / Dangerous-District-Hard / interactions=0
 Euclid / Frozen-Fjord-Hard / interactions=0
 Euclid / Restless-Ridge-Hard / any interactions
 Euclid / Toxic-Territory-Hard / interactions=0
-Euclid / Magnetic-Monopole / interactions=0
 Euclid / Magnetic-Monopole-Hard / interactions=0
 Euclid / Cyber-Castle-Hard / interactions=0
 Euclid / Infinite-Inferno / interactions=0
@@ -169,7 +164,6 @@ Chrono / Lonely-Laboratory / interactions=0
 Chrono / Withering-Wasteland / interactions=0
 Chrono / Ancient-Abyss / any interactions
 Chrono / Vast-Void / any interactions
-Chrono / Pristine-Purgatory / interactions=0
 Chrono / Sparkling-Shrine-Hard / any interactions
 Reaper / Catastrophic-Core / interactions=0
 Reaper / Dusty-Depths / interactions=0
@@ -222,7 +216,6 @@ Ghoul / Frozen-Fjord-Hard / interactions=0
 Ghoul / Restless-Ridge-Hard / interactions=0
 Ghoul / Toxic-Territory-Hard / interactions=0
 Ghoul / Magnetic-Monopole-Hard / interactions=0
-Ghoul / Burning-Bunker / interactions=0
 Ghoul / Grand-Garden / interactions=0
 Ghoul / Grand-Garden-Hard / interactions=0
 Ghoul / Cyber-Castle / interactions=0
@@ -250,11 +243,9 @@ Jötunn / Dangerous-District-Hard / interactions=1
 Jötunn / Quiet-Quarry-Hard / any interactions
 Jötunn / Ominous-Occult / any interactions
 Jötunn / Ominous-Occult-Hard / interactions=0
-Jötunn / Frozen-Fjord / interactions=0
 Jötunn / Frozen-Fjord-Hard / interactions=0
 Jötunn / Restless-Ridge / interactions=1
 Jötunn / Restless-Ridge-Hard / any interactions
-Jötunn / Magnetic-Monopole / interactions=0
 Jötunn / Magnetic-Monopole-Hard / interactions=0
 Jötunn / Grand-Garden-Hard / any interactions
 Jötunn / Cyber-Castle / interactions=0
@@ -332,7 +323,6 @@ Magno / Sparkling-Shrine / interactions=0
 Magno / Sparkling-Shrine-Hard / interactions=0
 Ignis / Catastrophic-Core / interactions=0
 Ignis / Haunted-Halls / interactions=0
-Ignis / Mysterious-Mansion / interactions=0
 Ignis / Coupled-Corridors / interactions=0
 Ignis / Shifting-Sands / interactions=0
 Ignis / Dusty-Depths / interactions=0
@@ -340,7 +330,6 @@ Ignis / Wacky-Wonderland / interactions=0
 Ignis / Wacky-Wonderland-Hard / interactions=0
 Ignis / Glacial-Gorge / interactions=0
 Ignis / Glacial-Gorge-Hard / interactions=0
-Ignis / Vicious-Valley / interactions=0
 Ignis / Vicious-Valley-Hard / interactions=0
 Ignis / Humongous-Hollow-Hard / interactions=0
 Ignis / Elite-Expanse-Hard / interactions=0
@@ -366,7 +355,6 @@ Ignis / Sparkling-Shrine / interactions=0
 Ignis / Sparkling-Shrine-Hard / interactions=0
 Stella / Catastrophic-Core / interactions=0
 Stella / Coupled-Corridors / interactions=0
-Stella / Peculiar-Pyramid-Hard / interactions=0
 Stella / Dusty-Depths / interactions=0
 Stella / Wacky-Wonderland-Hard / interactions=0
 Stella / Glacial-Gorge-Hard / interactions=0
@@ -377,7 +365,6 @@ Stella / Quiet-Quarry-Hard / interactions=0
 Stella / Ominous-Occult / interactions=0
 Stella / Ominous-Occult-Hard / interactions=0
 Stella / Frozen-Fjord-Hard / interactions=0
-Stella / Restless-Ridge / interactions=0
 Stella / Restless-Ridge-Hard / interactions=0
 Stella / Magnetic-Monopole-Hard / interactions=0
 Stella / Burning-Bunker-Hard / interactions=0
@@ -386,7 +373,6 @@ Stella / Grand-Garden-Hard / interactions=0
 Stella / Cyber-Castle-Hard / interactions=0
 Stella / Lonely-Laboratory / any interactions
 Stella / Infinite-Inferno / interactions=0
-Stella / Withering-Wasteland / interactions=0
 Stella / Terrifying-Temple / interactions=0
 Stella / Ancient-Abyss / interactions=0
 Stella / Vast-Void / any interactions
@@ -411,7 +397,6 @@ Cybot / Vast-Void / any interactions
 Cybot / Sparkling-Shrine-Hard / any interactions
 Echelon / Catastrophic-Core / interactions=0
 Echelon / Haunted-Halls / interactions=0
-Echelon / Mysterious-Mansion / interactions=0
 Echelon / Coupled-Corridors / interactions=0
 Echelon / Peculiar-Pyramid-Hard / any interactions
 Echelon / Dusty-Depths / interactions=0
@@ -419,7 +404,6 @@ Echelon / Wacky-Wonderland / interactions=0
 Echelon / Wacky-Wonderland-Hard / interactions=0
 Echelon / Glacial-Gorge / interactions=0
 Echelon / Glacial-Gorge-Hard / interactions=0
-Echelon / Vicious-Valley / interactions=0
 Echelon / Vicious-Valley-Hard / any interactions
 Echelon / Humongous-Hollow-Hard / any interactions
 Echelon / Elite-Expanse / interactions=0
@@ -435,7 +419,6 @@ Echelon / Restless-Ridge-Hard / interactions=0
 Echelon / Toxic-Territory-Hard / any interactions
 Echelon / Magnetic-Monopole / interactions=0
 Echelon / Magnetic-Monopole-Hard / interactions=1
-Echelon / Burning-Bunker / interactions=0
 Echelon / Burning-Bunker-Hard / interactions=0
 Echelon / Grand-Garden-Hard / any interactions
 Echelon / Cyber-Castle-Hard / interactions=0
@@ -449,7 +432,6 @@ Echelon / Pristine-Purgatory / interactions=0
 Echelon / Sparkling-Shrine / interactions=0
 Echelon / Sparkling-Shrine-Hard / any interactions
 Demona / Catastrophic-Core / interactions=0
-Demona / Haunted-Halls / interactions=0
 Demona / Shifting-Sands / interactions=0
 Demona / Dusty-Depths / interactions=0
 Demona / Wacky-Wonderland-Hard / interactions=0
@@ -458,7 +440,6 @@ Demona / Elite-Expanse-Hard / interactions=0
 Demona / Ominous-Occult / interactions=0
 Demona / Ominous-Occult-Hard / interactions=0
 Demona / Restless-Ridge-Hard / any interactions
-Demona / Toxic-Territory / interactions=0
 Demona / Toxic-Territory-Hard / interactions=0
 Demona / Burning-Bunker-Hard / interactions=0
 Demona / Cyber-Castle-Hard / any interactions
@@ -503,7 +484,6 @@ Leono / Frozen-Fjord-Hard / interactions=0
 Leono / Restless-Ridge / interactions=0
 Leono / Restless-Ridge-Hard / any interactions
 Leono / Magnetic-Monopole / interactions=0
-Leono / Burning-Bunker / interactions=0
 Leono / Cyber-Castle / interactions=0
 Leono / Cyber-Castle-Hard / any interactions
 Leono / Lonely-Laboratory / interactions=0
