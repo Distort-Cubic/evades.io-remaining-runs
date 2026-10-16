@@ -75,12 +75,11 @@ Aurora / Infinite-Inferno / interactions=0
 Aurora / Terrifying-Temple / interactions=0
 Aurora / Ancient-Abyss / interactions=0
 Aurora / Vast-Void / any interactions
-Aurora / Pristine-Purgatory / any interactions
+Aurora / Pristine-Purgatory / interactions=1
 Aurora / Sparkling-Shrine / any interactions
 Aurora / Sparkling-Shrine-Hard / any interactions
 Necro / Cyber-Castle-Hard / interactions=0
 Necro / Vast-Void / any interactions
-Necro / Pristine-Purgatory / interactions=0
 Necro / Sparkling-Shrine-Hard / any interactions
 Brute / Dusty-Depths / interactions=0
 Brute / Dangerous-District-Hard / interactions=0
@@ -202,7 +201,6 @@ Jolt / Vast-Void / any interactions
 Jolt / Pristine-Purgatory / any interactions
 Jolt / Sparkling-Shrine / any interactions
 Jolt / Sparkling-Shrine-Hard / any interactions
-Ghoul / Shifting-Sands / interactions=0
 Ghoul / Dusty-Depths / interactions=0
 Ghoul / Wacky-Wonderland-Hard / interactions=0
 Ghoul / Glacial-Gorge-Hard / interactions=0
@@ -271,7 +269,6 @@ Mirage / Wacky-Wonderland-Hard / interactions=0
 Mirage / Vicious-Valley-Hard / interactions=0
 Mirage / Elite-Expanse-Hard / interactions=0
 Mirage / Restless-Ridge-Hard / interactions=0
-Mirage / Toxic-Territory / interactions=0
 Mirage / Toxic-Territory-Hard / interactions=0
 Mirage / Cyber-Castle / interactions=0
 Mirage / Cyber-Castle-Hard / any interactions
@@ -338,7 +335,6 @@ Ignis / Dangerous-District-Hard / interactions=0
 Ignis / Quiet-Quarry-Hard / interactions=0
 Ignis / Frozen-Fjord / interactions=0
 Ignis / Restless-Ridge-Hard / interactions=0
-Ignis / Toxic-Territory / interactions=0
 Ignis / Toxic-Territory-Hard / interactions=0
 Ignis / Magnetic-Monopole / interactions=0
 Ignis / Grand-Garden / interactions=0
@@ -389,10 +385,8 @@ Mortuus / Ancient-Abyss / interactions=0
 Mortuus / Vast-Void / interactions=0
 Mortuus / Sparkling-Shrine-Hard / interactions=0
 Cybot / Dusty-Depths / any interactions
-Cybot / Vicious-Valley-Hard / interactions=0
 Cybot / Restless-Ridge-Hard / interactions=0
 Cybot / Cyber-Castle-Hard / interactions=0
-Cybot / Ancient-Abyss / interactions=0
 Cybot / Vast-Void / any interactions
 Cybot / Sparkling-Shrine-Hard / any interactions
 Echelon / Catastrophic-Core / interactions=0
@@ -463,7 +457,6 @@ Factorb / Grand-Garden-Hard / interactions=0
 Factorb / Cyber-Castle / interactions=0
 Factorb / Cyber-Castle-Hard / any interactions
 Factorb / Vast-Void / any interactions
-Factorb / Pristine-Purgatory / interactions=0
 Factorb / Sparkling-Shrine / interactions=0
 Factorb / Sparkling-Shrine-Hard / any interactions
 Leono / Catastrophic-Core / interactions=0
@@ -496,4 +489,3 @@ Leono / Sparkling-Shrine / interactions=0
 Leono / Sparkling-Shrine-Hard / any interactions
 Veydris / Cyber-Castle / interactions=0
 Veydris / Cyber-Castle-Hard / interactions=0
-Veydris / Sparkling-Shrine-Hard / interactions=0
