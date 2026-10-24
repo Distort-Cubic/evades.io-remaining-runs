@@ -48,7 +48,6 @@ Morfe / Vast-Void / any interactions
 Morfe / Pristine-Purgatory / any interactions
 Morfe / Sparkling-Shrine / any interactions
 Morfe / Sparkling-Shrine-Hard / any interactions
-Aurora / Haunted-Halls / interactions=0
 Aurora / Peculiar-Pyramid-Hard / interactions=0
 Aurora / Shifting-Sands / interactions=0
 Aurora / Dusty-Depths / interactions=0
@@ -58,7 +57,6 @@ Aurora / Glacial-Gorge-Hard / interactions=0
 Aurora / Vicious-Valley-Hard / interactions=0
 Aurora / Humongous-Hollow-Hard / any interactions
 Aurora / Elite-Expanse-Hard / any interactions
-Aurora / Dangerous-District / interactions=0
 Aurora / Dangerous-District-Hard / interactions=0
 Aurora / Quiet-Quarry-Hard / interactions=0
 Aurora / Ominous-Occult / interactions=0
@@ -92,7 +90,7 @@ Brute / Cyber-Castle-Hard / interactions=0
 Brute / Lonely-Laboratory / any interactions
 Brute / Infinite-Inferno / interactions=0
 Brute / Terrifying-Temple / interactions=1
-Brute / Ancient-Abyss / any interactions
+Brute / Ancient-Abyss / interactions=0
 Brute / Vast-Void / any interactions
 Brute / Pristine-Purgatory / any interactions
 Brute / Sparkling-Shrine / any interactions
@@ -160,7 +158,6 @@ Chrono / Quiet-Quarry-Hard / interactions=0
 Chrono / Cyber-Castle / interactions=0
 Chrono / Cyber-Castle-Hard / interactions=0
 Chrono / Lonely-Laboratory / interactions=0
-Chrono / Withering-Wasteland / interactions=0
 Chrono / Ancient-Abyss / any interactions
 Chrono / Vast-Void / any interactions
 Chrono / Sparkling-Shrine-Hard / any interactions
@@ -212,7 +209,6 @@ Ghoul / Quiet-Quarry-Hard / interactions=0
 Ghoul / Frozen-Fjord / interactions=0
 Ghoul / Frozen-Fjord-Hard / interactions=0
 Ghoul / Restless-Ridge-Hard / interactions=0
-Ghoul / Toxic-Territory-Hard / interactions=0
 Ghoul / Magnetic-Monopole-Hard / interactions=0
 Ghoul / Grand-Garden / interactions=0
 Ghoul / Grand-Garden-Hard / interactions=0
@@ -236,7 +232,6 @@ Jötunn / Vicious-Valley-Hard / interactions=0
 Jötunn / Humongous-Hollow-Hard / any interactions
 Jötunn / Elite-Expanse / interactions=0
 Jötunn / Elite-Expanse-Hard / any interactions
-Jötunn / Dangerous-District / interactions=0
 Jötunn / Dangerous-District-Hard / interactions=1
 Jötunn / Quiet-Quarry-Hard / any interactions
 Jötunn / Ominous-Occult / any interactions
@@ -319,7 +314,6 @@ Magno / Pristine-Purgatory / interactions=0
 Magno / Sparkling-Shrine / interactions=0
 Magno / Sparkling-Shrine-Hard / interactions=0
 Ignis / Catastrophic-Core / interactions=0
-Ignis / Haunted-Halls / interactions=0
 Ignis / Coupled-Corridors / interactions=0
 Ignis / Shifting-Sands / interactions=0
 Ignis / Dusty-Depths / interactions=0
@@ -330,7 +324,6 @@ Ignis / Glacial-Gorge-Hard / interactions=0
 Ignis / Vicious-Valley-Hard / interactions=0
 Ignis / Humongous-Hollow-Hard / interactions=0
 Ignis / Elite-Expanse-Hard / interactions=0
-Ignis / Dangerous-District / interactions=0
 Ignis / Dangerous-District-Hard / interactions=0
 Ignis / Quiet-Quarry-Hard / interactions=0
 Ignis / Frozen-Fjord / interactions=0
@@ -390,7 +383,6 @@ Cybot / Cyber-Castle-Hard / interactions=0
 Cybot / Vast-Void / any interactions
 Cybot / Sparkling-Shrine-Hard / any interactions
 Echelon / Catastrophic-Core / interactions=0
-Echelon / Haunted-Halls / interactions=0
 Echelon / Coupled-Corridors / interactions=0
 Echelon / Peculiar-Pyramid-Hard / any interactions
 Echelon / Dusty-Depths / interactions=0
@@ -402,7 +394,6 @@ Echelon / Vicious-Valley-Hard / any interactions
 Echelon / Humongous-Hollow-Hard / any interactions
 Echelon / Elite-Expanse / interactions=0
 Echelon / Elite-Expanse-Hard / interactions=0
-Echelon / Dangerous-District / interactions=0
 Echelon / Dangerous-District-Hard / interactions=0
 Echelon / Quiet-Quarry-Hard / interactions=0
 Echelon / Ominous-Occult / interactions=0
@@ -460,7 +451,6 @@ Factorb / Vast-Void / any interactions
 Factorb / Sparkling-Shrine / interactions=0
 Factorb / Sparkling-Shrine-Hard / any interactions
 Leono / Catastrophic-Core / interactions=0
-Leono / Haunted-Halls / interactions=0
 Leono / Shifting-Sands / interactions=0
 Leono / Dusty-Depths / any interactions
 Leono / Wacky-Wonderland / interactions=0
