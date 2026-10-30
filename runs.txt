@@ -36,7 +36,6 @@ Morfe / Ominous-Occult / interactions=0
 Morfe / Frozen-Fjord-Hard / interactions=0
 Morfe / Restless-Ridge-Hard / any interactions
 Morfe / Toxic-Territory-Hard / interactions=0
-Morfe / Magnetic-Monopole / interactions=0
 Morfe / Burning-Bunker-Hard / interactions=0
 Morfe / Grand-Garden-Hard / interactions=1
 Morfe / Cyber-Castle-Hard / any interactions
@@ -45,7 +44,7 @@ Morfe / Infinite-Inferno / interactions=0
 Morfe / Terrifying-Temple / interactions=0
 Morfe / Ancient-Abyss / interactions=0
 Morfe / Vast-Void / any interactions
-Morfe / Pristine-Purgatory / any interactions
+Morfe / Pristine-Purgatory / interactions=0
 Morfe / Sparkling-Shrine / any interactions
 Morfe / Sparkling-Shrine-Hard / any interactions
 Aurora / Peculiar-Pyramid-Hard / interactions=0
@@ -175,10 +174,8 @@ Reaper / Pristine-Purgatory / interactions=0
 Reaper / Sparkling-Shrine / interactions=0
 Reaper / Sparkling-Shrine-Hard / any interactions
 Rameses / Cyber-Castle-Hard / interactions=0
-Rameses / Vast-Void / any interactions
 Jolt / Shifting-Sands / interactions=0
 Jolt / Dusty-Depths / any interactions
-Jolt / Wacky-Wonderland-Hard / interactions=0
 Jolt / Glacial-Gorge-Hard / interactions=0
 Jolt / Humongous-Hollow-Hard / interactions=0
 Jolt / Elite-Expanse-Hard / interactions=0
@@ -206,7 +203,6 @@ Ghoul / Humongous-Hollow-Hard / interactions=0
 Ghoul / Elite-Expanse-Hard / interactions=0
 Ghoul / Dangerous-District-Hard / interactions=0
 Ghoul / Quiet-Quarry-Hard / interactions=0
-Ghoul / Frozen-Fjord / interactions=0
 Ghoul / Frozen-Fjord-Hard / interactions=0
 Ghoul / Restless-Ridge-Hard / interactions=0
 Ghoul / Magnetic-Monopole-Hard / interactions=0
@@ -225,7 +221,6 @@ Cent / Toxic-Territory-Hard / interactions=0
 Cent / Cyber-Castle-Hard / interactions=0
 Cent / Lonely-Laboratory / interactions=0
 Cent / Vast-Void / any interactions
-Cent / Pristine-Purgatory / interactions=0
 Jötunn / Glacial-Gorge / interactions=0
 Jötunn / Glacial-Gorge-Hard / any interactions
 Jötunn / Vicious-Valley-Hard / interactions=0
@@ -268,12 +263,11 @@ Mirage / Toxic-Territory-Hard / interactions=0
 Mirage / Cyber-Castle / interactions=0
 Mirage / Cyber-Castle-Hard / any interactions
 Mirage / Lonely-Laboratory / interactions=0
-Mirage / Infinite-Inferno / interactions=0
 Mirage / Ancient-Abyss / interactions=0
 Mirage / Vast-Void / interactions=0
 Mirage / Pristine-Purgatory / interactions=0
 Mirage / Sparkling-Shrine / interactions=0
-Mirage / Sparkling-Shrine-Hard / any interactions
+Mirage / Sparkling-Shrine-Hard / interactions=1
 Boldrock / Wacky-Wonderland-Hard / interactions=1
 Boldrock / Glacial-Gorge-Hard / any interactions
 Boldrock / Elite-Expanse-Hard / interactions=1
@@ -311,7 +305,6 @@ Magno / Grand-Garden-Hard / interactions=0
 Magno / Cyber-Castle-Hard / interactions=0
 Magno / Vast-Void / any interactions
 Magno / Pristine-Purgatory / interactions=0
-Magno / Sparkling-Shrine / interactions=0
 Magno / Sparkling-Shrine-Hard / interactions=0
 Ignis / Catastrophic-Core / interactions=0
 Ignis / Coupled-Corridors / interactions=0
@@ -348,7 +341,6 @@ Stella / Dusty-Depths / interactions=0
 Stella / Wacky-Wonderland-Hard / interactions=0
 Stella / Glacial-Gorge-Hard / interactions=0
 Stella / Vicious-Valley-Hard / interactions=0
-Stella / Humongous-Hollow-Hard / interactions=0
 Stella / Dangerous-District-Hard / interactions=0
 Stella / Quiet-Quarry-Hard / interactions=0
 Stella / Ominous-Occult / interactions=0
@@ -464,7 +456,6 @@ Leono / Dangerous-District-Hard / any interactions
 Leono / Quiet-Quarry-Hard / interactions=0
 Leono / Ominous-Occult / interactions=0
 Leono / Frozen-Fjord-Hard / interactions=0
-Leono / Restless-Ridge / interactions=0
 Leono / Restless-Ridge-Hard / any interactions
 Leono / Magnetic-Monopole / interactions=0
 Leono / Cyber-Castle / interactions=0
