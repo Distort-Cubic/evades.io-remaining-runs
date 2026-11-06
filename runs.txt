@@ -34,12 +34,12 @@ Morfe / Dangerous-District-Hard / interactions=0
 Morfe / Quiet-Quarry-Hard / interactions=0
 Morfe / Ominous-Occult / interactions=0
 Morfe / Frozen-Fjord-Hard / interactions=0
-Morfe / Restless-Ridge-Hard / any interactions
+Morfe / Restless-Ridge-Hard / interactions=0
 Morfe / Toxic-Territory-Hard / interactions=0
 Morfe / Burning-Bunker-Hard / interactions=0
 Morfe / Grand-Garden-Hard / interactions=1
 Morfe / Cyber-Castle-Hard / any interactions
-Morfe / Lonely-Laboratory / any interactions
+Morfe / Lonely-Laboratory / interactions=0
 Morfe / Infinite-Inferno / interactions=0
 Morfe / Terrifying-Temple / interactions=0
 Morfe / Ancient-Abyss / interactions=0
@@ -65,7 +65,6 @@ Aurora / Frozen-Fjord-Hard / interactions=0
 Aurora / Restless-Ridge-Hard / interactions=0
 Aurora / Toxic-Territory-Hard / interactions=0
 Aurora / Burning-Bunker-Hard / interactions=0
-Aurora / Grand-Garden / interactions=0
 Aurora / Grand-Garden-Hard / any interactions
 Aurora / Cyber-Castle-Hard / any interactions
 Aurora / Infinite-Inferno / interactions=0
@@ -111,7 +110,6 @@ Nexus / Frozen-Fjord / interactions=0
 Nexus / Frozen-Fjord-Hard / interactions=0
 Nexus / Restless-Ridge-Hard / interactions=0
 Nexus / Toxic-Territory-Hard / any interactions
-Nexus / Magnetic-Monopole / interactions=0
 Nexus / Magnetic-Monopole-Hard / any interactions
 Nexus / Burning-Bunker-Hard / interactions=0
 Nexus / Cyber-Castle-Hard / any interactions
@@ -145,7 +143,6 @@ Euclid / Dangerous-District-Hard / interactions=0
 Euclid / Frozen-Fjord-Hard / interactions=0
 Euclid / Restless-Ridge-Hard / any interactions
 Euclid / Toxic-Territory-Hard / interactions=0
-Euclid / Magnetic-Monopole-Hard / interactions=0
 Euclid / Cyber-Castle-Hard / interactions=0
 Euclid / Infinite-Inferno / interactions=0
 Euclid / Terrifying-Temple / interactions=0
@@ -210,7 +207,7 @@ Ghoul / Grand-Garden / interactions=0
 Ghoul / Grand-Garden-Hard / interactions=0
 Ghoul / Cyber-Castle / interactions=0
 Ghoul / Cyber-Castle-Hard / interactions=0
-Ghoul / Lonely-Laboratory / any interactions
+Ghoul / Lonely-Laboratory / interactions=0
 Ghoul / Infinite-Inferno / interactions=0
 Ghoul / Ancient-Abyss / interactions=0
 Ghoul / Vast-Void / any interactions
@@ -221,7 +218,6 @@ Cent / Toxic-Territory-Hard / interactions=0
 Cent / Cyber-Castle-Hard / interactions=0
 Cent / Lonely-Laboratory / interactions=0
 Cent / Vast-Void / any interactions
-Jötunn / Glacial-Gorge / interactions=0
 Jötunn / Glacial-Gorge-Hard / any interactions
 Jötunn / Vicious-Valley-Hard / interactions=0
 Jötunn / Humongous-Hollow-Hard / any interactions
@@ -255,9 +251,6 @@ Candy / Vast-Void / any interactions
 Candy / Sparkling-Shrine-Hard / any interactions
 Mirage / Catastrophic-Core / interactions=0
 Mirage / Dusty-Depths / any interactions
-Mirage / Wacky-Wonderland-Hard / interactions=0
-Mirage / Vicious-Valley-Hard / interactions=0
-Mirage / Elite-Expanse-Hard / interactions=0
 Mirage / Restless-Ridge-Hard / interactions=0
 Mirage / Toxic-Territory-Hard / interactions=0
 Mirage / Cyber-Castle / interactions=0
@@ -349,7 +342,6 @@ Stella / Frozen-Fjord-Hard / interactions=0
 Stella / Restless-Ridge-Hard / interactions=0
 Stella / Magnetic-Monopole-Hard / interactions=0
 Stella / Burning-Bunker-Hard / interactions=0
-Stella / Grand-Garden / interactions=0
 Stella / Grand-Garden-Hard / interactions=0
 Stella / Cyber-Castle-Hard / interactions=0
 Stella / Lonely-Laboratory / any interactions
@@ -397,7 +389,7 @@ Echelon / Toxic-Territory-Hard / any interactions
 Echelon / Magnetic-Monopole / interactions=0
 Echelon / Magnetic-Monopole-Hard / interactions=1
 Echelon / Burning-Bunker-Hard / interactions=0
-Echelon / Grand-Garden-Hard / any interactions
+Echelon / Grand-Garden-Hard / interactions=0
 Echelon / Cyber-Castle-Hard / interactions=0
 Echelon / Lonely-Laboratory / any interactions
 Echelon / Infinite-Inferno / interactions=0
