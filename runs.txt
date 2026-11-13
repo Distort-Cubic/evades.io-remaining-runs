@@ -94,7 +94,6 @@ Brute / Pristine-Purgatory / any interactions
 Brute / Sparkling-Shrine / any interactions
 Brute / Sparkling-Shrine-Hard / any interactions
 Nexus / Catastrophic-Core / interactions=0
-Nexus / Coupled-Corridors / interactions=0
 Nexus / Peculiar-Pyramid-Hard / interactions=0
 Nexus / Shifting-Sands / interactions=0
 Nexus / Dusty-Depths / interactions=0
@@ -133,7 +132,6 @@ Shade / Cyber-Castle-Hard / interactions=0
 Shade / Lonely-Laboratory / interactions=0
 Shade / Vast-Void / any interactions
 Shade / Pristine-Purgatory / any interactions
-Euclid / Catastrophic-Core / interactions=0
 Euclid / Shifting-Sands / interactions=0
 Euclid / Dusty-Depths / interactions=0
 Euclid / Wacky-Wonderland-Hard / interactions=0
@@ -203,7 +201,6 @@ Ghoul / Quiet-Quarry-Hard / interactions=0
 Ghoul / Frozen-Fjord-Hard / interactions=0
 Ghoul / Restless-Ridge-Hard / interactions=0
 Ghoul / Magnetic-Monopole-Hard / interactions=0
-Ghoul / Grand-Garden / interactions=0
 Ghoul / Grand-Garden-Hard / interactions=0
 Ghoul / Cyber-Castle / interactions=0
 Ghoul / Cyber-Castle-Hard / interactions=0
@@ -259,7 +256,6 @@ Mirage / Lonely-Laboratory / interactions=0
 Mirage / Ancient-Abyss / interactions=0
 Mirage / Vast-Void / interactions=0
 Mirage / Pristine-Purgatory / interactions=0
-Mirage / Sparkling-Shrine / interactions=0
 Mirage / Sparkling-Shrine-Hard / interactions=1
 Boldrock / Wacky-Wonderland-Hard / interactions=1
 Boldrock / Glacial-Gorge-Hard / any interactions
@@ -316,7 +312,6 @@ Ignis / Frozen-Fjord / interactions=0
 Ignis / Restless-Ridge-Hard / interactions=0
 Ignis / Toxic-Territory-Hard / interactions=0
 Ignis / Magnetic-Monopole / interactions=0
-Ignis / Grand-Garden / interactions=0
 Ignis / Grand-Garden-Hard / interactions=0
 Ignis / Cyber-Castle / interactions=0
 Ignis / Cyber-Castle-Hard / interactions=0
@@ -439,7 +434,6 @@ Leono / Shifting-Sands / interactions=0
 Leono / Dusty-Depths / any interactions
 Leono / Wacky-Wonderland / interactions=0
 Leono / Wacky-Wonderland-Hard / interactions=0
-Leono / Glacial-Gorge-Hard / interactions=0
 Leono / Vicious-Valley-Hard / interactions=0
 Leono / Humongous-Hollow-Hard / interactions=0
 Leono / Elite-Expanse / interactions=0
