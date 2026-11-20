@@ -51,7 +51,6 @@ Aurora / Peculiar-Pyramid-Hard / interactions=0
 Aurora / Shifting-Sands / interactions=0
 Aurora / Dusty-Depths / interactions=0
 Aurora / Wacky-Wonderland-Hard / interactions=0
-Aurora / Glacial-Gorge / interactions=0
 Aurora / Glacial-Gorge-Hard / interactions=0
 Aurora / Vicious-Valley-Hard / interactions=0
 Aurora / Humongous-Hollow-Hard / any interactions
@@ -75,7 +74,7 @@ Aurora / Pristine-Purgatory / interactions=1
 Aurora / Sparkling-Shrine / any interactions
 Aurora / Sparkling-Shrine-Hard / any interactions
 Necro / Cyber-Castle-Hard / interactions=0
-Necro / Vast-Void / any interactions
+Necro / Vast-Void / interactions=0
 Necro / Sparkling-Shrine-Hard / any interactions
 Brute / Dusty-Depths / interactions=0
 Brute / Dangerous-District-Hard / interactions=0
@@ -145,7 +144,6 @@ Euclid / Cyber-Castle-Hard / interactions=0
 Euclid / Infinite-Inferno / interactions=0
 Euclid / Terrifying-Temple / interactions=0
 Euclid / Vast-Void / any interactions
-Euclid / Sparkling-Shrine / interactions=0
 Euclid / Sparkling-Shrine-Hard / any interactions
 Chrono / Dusty-Depths / interactions=0
 Chrono / Quiet-Quarry-Hard / interactions=0
@@ -172,7 +170,6 @@ Rameses / Cyber-Castle-Hard / interactions=0
 Jolt / Shifting-Sands / interactions=0
 Jolt / Dusty-Depths / any interactions
 Jolt / Glacial-Gorge-Hard / interactions=0
-Jolt / Humongous-Hollow-Hard / interactions=0
 Jolt / Elite-Expanse-Hard / interactions=0
 Jolt / Quiet-Quarry-Hard / any interactions
 Jolt / Ominous-Occult / interactions=0
@@ -218,11 +215,10 @@ Cent / Vast-Void / any interactions
 Jötunn / Glacial-Gorge-Hard / any interactions
 Jötunn / Vicious-Valley-Hard / interactions=0
 Jötunn / Humongous-Hollow-Hard / any interactions
-Jötunn / Elite-Expanse / interactions=0
 Jötunn / Elite-Expanse-Hard / any interactions
 Jötunn / Dangerous-District-Hard / interactions=1
 Jötunn / Quiet-Quarry-Hard / any interactions
-Jötunn / Ominous-Occult / any interactions
+Jötunn / Ominous-Occult / interactions=0
 Jötunn / Ominous-Occult-Hard / interactions=0
 Jötunn / Frozen-Fjord-Hard / interactions=0
 Jötunn / Restless-Ridge / interactions=1
@@ -282,7 +278,6 @@ Glob / Vast-Void / any interactions
 Glob / Sparkling-Shrine / any interactions
 Glob / Sparkling-Shrine-Hard / any interactions
 Magno / Wacky-Wonderland-Hard / interactions=0
-Magno / Vicious-Valley-Hard / interactions=0
 Magno / Humongous-Hollow-Hard / interactions=0
 Magno / Elite-Expanse-Hard / interactions=0
 Magno / Dangerous-District-Hard / interactions=0
@@ -296,7 +291,6 @@ Magno / Vast-Void / any interactions
 Magno / Pristine-Purgatory / interactions=0
 Magno / Sparkling-Shrine-Hard / interactions=0
 Ignis / Catastrophic-Core / interactions=0
-Ignis / Coupled-Corridors / interactions=0
 Ignis / Shifting-Sands / interactions=0
 Ignis / Dusty-Depths / interactions=0
 Ignis / Wacky-Wonderland / interactions=0
@@ -311,7 +305,6 @@ Ignis / Quiet-Quarry-Hard / interactions=0
 Ignis / Frozen-Fjord / interactions=0
 Ignis / Restless-Ridge-Hard / interactions=0
 Ignis / Toxic-Territory-Hard / interactions=0
-Ignis / Magnetic-Monopole / interactions=0
 Ignis / Grand-Garden-Hard / interactions=0
 Ignis / Cyber-Castle / interactions=0
 Ignis / Cyber-Castle-Hard / interactions=0
@@ -371,7 +364,6 @@ Echelon / Glacial-Gorge / interactions=0
 Echelon / Glacial-Gorge-Hard / interactions=0
 Echelon / Vicious-Valley-Hard / any interactions
 Echelon / Humongous-Hollow-Hard / any interactions
-Echelon / Elite-Expanse / interactions=0
 Echelon / Elite-Expanse-Hard / interactions=0
 Echelon / Dangerous-District-Hard / interactions=0
 Echelon / Quiet-Quarry-Hard / interactions=0
