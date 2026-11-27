@@ -1,5 +1,4 @@
 Magmax / Dusty-Depths / any interactions
-Magmax / Humongous-Hollow-Hard / interactions=0
 Magmax / Cyber-Castle-Hard / any interactions
 Magmax / Sparkling-Shrine-Hard / interactions=0
 Rime / Shifting-Sands / interactions=0
@@ -53,7 +52,7 @@ Aurora / Dusty-Depths / interactions=0
 Aurora / Wacky-Wonderland-Hard / interactions=0
 Aurora / Glacial-Gorge-Hard / interactions=0
 Aurora / Vicious-Valley-Hard / interactions=0
-Aurora / Humongous-Hollow-Hard / any interactions
+Aurora / Humongous-Hollow-Hard / interactions=1
 Aurora / Elite-Expanse-Hard / any interactions
 Aurora / Dangerous-District-Hard / interactions=0
 Aurora / Quiet-Quarry-Hard / interactions=0
@@ -70,7 +69,6 @@ Aurora / Infinite-Inferno / interactions=0
 Aurora / Terrifying-Temple / interactions=0
 Aurora / Ancient-Abyss / interactions=0
 Aurora / Vast-Void / any interactions
-Aurora / Pristine-Purgatory / interactions=1
 Aurora / Sparkling-Shrine / any interactions
 Aurora / Sparkling-Shrine-Hard / any interactions
 Necro / Cyber-Castle-Hard / interactions=0
@@ -89,7 +87,7 @@ Brute / Infinite-Inferno / interactions=0
 Brute / Terrifying-Temple / interactions=1
 Brute / Ancient-Abyss / interactions=0
 Brute / Vast-Void / any interactions
-Brute / Pristine-Purgatory / any interactions
+Brute / Pristine-Purgatory / interactions=0
 Brute / Sparkling-Shrine / any interactions
 Brute / Sparkling-Shrine-Hard / any interactions
 Nexus / Catastrophic-Core / interactions=0
@@ -130,7 +128,7 @@ Shade / Cyber-Castle / interactions=0
 Shade / Cyber-Castle-Hard / interactions=0
 Shade / Lonely-Laboratory / interactions=0
 Shade / Vast-Void / any interactions
-Shade / Pristine-Purgatory / any interactions
+Shade / Pristine-Purgatory / interactions=0
 Euclid / Shifting-Sands / interactions=0
 Euclid / Dusty-Depths / interactions=0
 Euclid / Wacky-Wonderland-Hard / interactions=0
@@ -293,7 +291,6 @@ Magno / Sparkling-Shrine-Hard / interactions=0
 Ignis / Catastrophic-Core / interactions=0
 Ignis / Shifting-Sands / interactions=0
 Ignis / Dusty-Depths / interactions=0
-Ignis / Wacky-Wonderland / interactions=0
 Ignis / Wacky-Wonderland-Hard / interactions=0
 Ignis / Glacial-Gorge / interactions=0
 Ignis / Glacial-Gorge-Hard / interactions=0
@@ -317,7 +314,6 @@ Ignis / Pristine-Purgatory / interactions=0
 Ignis / Sparkling-Shrine / interactions=0
 Ignis / Sparkling-Shrine-Hard / interactions=0
 Stella / Catastrophic-Core / interactions=0
-Stella / Coupled-Corridors / interactions=0
 Stella / Dusty-Depths / interactions=0
 Stella / Wacky-Wonderland-Hard / interactions=0
 Stella / Glacial-Gorge-Hard / interactions=0
@@ -356,7 +352,7 @@ Cybot / Vast-Void / any interactions
 Cybot / Sparkling-Shrine-Hard / any interactions
 Echelon / Catastrophic-Core / interactions=0
 Echelon / Coupled-Corridors / interactions=0
-Echelon / Peculiar-Pyramid-Hard / any interactions
+Echelon / Peculiar-Pyramid-Hard / interactions=1
 Echelon / Dusty-Depths / interactions=0
 Echelon / Wacky-Wonderland / interactions=0
 Echelon / Wacky-Wonderland-Hard / interactions=0
@@ -404,7 +400,7 @@ Demona / Withering-Wasteland / interactions=0
 Demona / Terrifying-Temple / interactions=0
 Demona / Ancient-Abyss / interactions=0
 Demona / Vast-Void / any interactions
-Demona / Pristine-Purgatory / any interactions
+Demona / Pristine-Purgatory / interactions=0
 Demona / Sparkling-Shrine / interactions=0
 Demona / Sparkling-Shrine-Hard / any interactions
 Stheno / Cyber-Castle / interactions=0
